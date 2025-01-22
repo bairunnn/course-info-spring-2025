@@ -7,8 +7,8 @@
 * **Room:** ...
 * **Office Hours:**
   * Mjumbe:
-    * Van Pelt RDDSx: Wednesdays, 10:30-12:30
-    * By appointment
+    * Van Pelt RDDSx: Mondays, Tuesdays, Wednesdays, 10:30-12:30
+    * By appointment (reservation link coming soon)
   * Junyi:
     * TBD
 
