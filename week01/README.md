@@ -1,6 +1,6 @@
 ## Slides
 
-https://weitzman-musa-geocloud.github.io/presentation_slides/week01/SLIDES.html
+https://weitzman-musa-geocloud.github.io/presentations/week01/SLIDES.html
 
 ## In-class Exercise
 
