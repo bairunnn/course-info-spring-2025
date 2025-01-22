@@ -1,15 +1,15 @@
-# MUSA 509: Geospatial Cloud Computing & Visualization - Syllabus
+# MUSA 5090: Geospatial Cloud Computing & Visualization - Syllabus
 
 * **Instructor(s):**
   * Mjumbe Poe, mjumbe@design.upenn.edu
-  * Sofia Fasullo, sfasullo@design.upenn.edu
-* **Schedule:** Wednesdays, 10:15-1:15
-* **Room:** Meyerson Hall, B13
+  * Junyi Yang, junyiy@design.upenn.edu
+* **Schedule:** Wednesdays, 1:45-4:45
+* **Room:** ...
 * **Office Hours:**
   * Mjumbe:
-    * In person Wednesdays immediately after class, first-come first-served
+    * Van Pelt RDDSx: Wednesdays, 10:30-12:30
     * By appointment
-  * Sofia:
+  * Junyi:
     * TBD
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
@@ -17,7 +17,7 @@
 
 ## Description
 
-In this course you will learn how to collect, store, wrangle and display cartographic data in a cloud-based setting. You will learn reproducible approaches for pulling spatial data from APIs with emphasis on PostGIS, Airflow, and BigQuery; to wrangle these data in Python and/or JavaScript; and visualize in various platforms including Carto and Metabase. You will build your own APIs and develop your own custom web applications. This course is the second in a progression toward building web-based systems using geospatial data, and expands on the Fall course in JavaScript Programming for Planning.
+In this course you will learn how to collect, store, wrangle and display cartographic data in a cloud-based setting. You will learn reproducible approaches for pulling spatial data from APIs; wrangling these data with Python and/or JavaScript; storing and transforming these data in PostGIS and BigQuery; and visualizing in various platforms including Carto and Metabase. You will build your own APIs and develop your own custom web applications. This course is the second in a progression toward building web-based systems using geospatial data, and expands on the Fall course in JavaScript Programming for Planning.
 
 There will be a strong emphasis on open source tools although we will also strongly rely on proprietary cloud-based infrastructure providers. Besides the technologies used in class, we will be using large and sometimes messy data from which we will be deriving insights from how people inhabit, move around in, and affect their environments. We will be working with datasets published by a variety of organizations, from the local to the national level, across governments, non-profits, and private corporations.
 
@@ -25,34 +25,34 @@ The class is divided into four modules:
 
 1. **Spatial Analytics with Databases** -- learn the basics of SQL and PostGIS for exploring datasets and answering questions of your data
 2. **Scripting with Cloud Services** -- building basic scripts with queries and interacting with web services/APIs programmatically
-3. **Data Pipelining** -- use Python or JavaScript and SQL to automate extracting, transforming, and loading data into a data warehouse
-4. **Building Interfaces** -- build a dashboard and APIs to answer operational questions using dynamic representations data
+3. **Data Pipelining** -- use Python or JavaScript and SQL to automate extracting, loading, and transforming data in a data warehouse
+4. **Building Interfaces** -- build dashboards and APIs to answer operational questions using dynamic representations of data
 
 ## Course Schedule
 (subject to adapt to the flow of the semester)
 
 |  W#  |  Date  |  Topic  |
 |------|--------|---------|
-|  1   |  Jan 24  |  Introduction  |
-|  2   |  Jan 31  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |
-|  3   |  Feb 7   |  _Analytics_: Joins & More Geospatial SQL Operations  |
-|  4   |  Feb 14   |  _Analytics_: Efficient Queries  |
-|  5   |  Feb 21  |  _Scripting_: Working with Data from Files and Web Services  |
-|  6   |  Feb 28  |  _Scripting_: More Extracting Data  |
-|  -   |  Mar 6   |  **-(SPRING BREAK)-**  |
-|  7   |  Mar 13   |  _Pipelines_: Implementing ETL in Cloud Services  |
-|  8   |  Mar 20  |  _Pipelines_: Deploying to the cloud  |
-|  9   |  Mar 27  |  _Interfaces_: Open Source Business Intelligence Tools  |
-|  10  |  Apr 3  |  _Interfaces_: Rendering Data with Custom Applications (APIs and Templates)  |
-|  11  |  Apr 10   |    |
-|  12  |  Apr 17  |    |
-|  13  |  Apr 24  |    |
-|  14  |  May 1  |   |
+|  1   |  Jan 22  |  Introduction  |
+|  2   |  Jan 29  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |
+|  3   |  Feb 5   |  _Analytics_: Joins & More Geospatial SQL Operations  |
+|  4   |  Feb 12   |  _Analytics_: Efficient Queries  |
+|  5   |  Feb 19  |  _Scripting_: Working with Data from Files and Web Services  |
+|  6   |  Feb 26  |  _Scripting_: More Extracting Data  |
+|  7   |  Mar 4   |  _Pipelines_: Implementing ETL in Cloud Services  |
+|  -   |  Mar 11   |  **-(SPRING BREAK)-**  |
+|  8   |  Mar 18  |  _Pipelines_: Deploying to the cloud  |
+|  9   |  Mar 25  |  _Interfaces_: Open Source Business Intelligence Tools  |
+|  10  |  Apr 1  |  _Interfaces_: Rendering Data with Custom Applications (APIs and Templates)  |
+|  11  |  Apr 8   |    |
+|  12  |  Apr 15  |    |
+|  13  |  Apr 22  |    |
+|  14  |  Apr 29  |   |
 
 ## Course Objectives
 
 Students will learn how to use professional tools and cloud-based services to automate the process of preparing data for use in organizational decision making. **By the end of this course students should be able to:**
-* Use SQL to answer questions with the data in a database
+* Use SQL to answer questions with the data in a database, data warehouse, or data lake
 * Set up and use tools for exploring and visualizing data in a database
 * Use web services to create beautiful and meaningful data products
 * Use Python or JavaScript to automate the process of extracting, transforming, and loading data
@@ -60,7 +60,7 @@ Students will learn how to use professional tools and cloud-based services to au
 
 ## Format
 
-- The majority of lectures will be asynchronous.
+- The majority of _lectures_ will be asynchronous.
 - The beginning of each class will be devoted to answering questions, clarifying content, or discussions.
 - The later part of classes will be interactive, sometimes with some deliverable expected by the end that will make up part of the participation portion of your grade.
 
