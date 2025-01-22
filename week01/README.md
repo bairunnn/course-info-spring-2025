@@ -12,7 +12,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week01/SLIDES.html
   * Once you get access (it may take a day or four), sign up for a CARTO account through the Dev Pack site
 * [SQL practice on Codecademy](https://www.codecademy.com/learn/learn-sql)
   * Complete **"Manipulation"** and **"Queries"** in the (free) _Learn SQL_ course on Codecademy
-* [Join the course Slack](https://join.slack.com/t/musa-tools-track/shared_invite/zt-2ycxfcd2a-L5YYV8Mrbir726uuM8NODQ)
+* [Join the course Slack](https://join.slack.com/t/musa-tools-track/signup)
 
 ## SQL Practice
 
