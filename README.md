@@ -76,9 +76,11 @@ As we will be collaborating on projects, we will need to use common tools and pr
 
 ## Assignments
 
-There will be assignments with some lectures. Other lectures will have recommended readings and suggested exercises to give additional practice. Labs will often have exercises that are intended to be completed in class or, in some exceptional cases, soon after.
+There will be assignments with some weeks, particularly as we are getting comfortable with SQL. Other weeks will have recommended readings and suggested exercises to give additional practice. We will often have exercises that are intended to be completed in class or, in some exceptional cases, soon after.
 
-The final project will be the culmination of all of the skills learned in the class. Students will build an automatically updating data product, powered by a cloud-hosted data pipeline, that can be used to make some operational decisions. Expectations are that the products will address some socially relevant domain, and will make use of multiple visualizations of data (static or interactive charts and maps, formatted statistics, templated prose, etc.).
+The final project will be the culmination of all of the skills learned in the class. Students will build an automatically updating data product, powered by a cloud-hosted data pipeline, that can be used to make some operational decisions. Expectations are that the products will address some socially relevant domain, and will make use of multiple visualizations of data (static or interactive charts and maps, formatted statistics, templated prose, etc.). Many of you are in MUSA/Smart Cities practicum, and we can create some overlap between the two projects.
+
+In the latter half of the semester we will have an in-class project. You will be split into teams based on your interests and skills, and you will collaborate to construct an end-to-end data product.
 
 ## Grading
 
