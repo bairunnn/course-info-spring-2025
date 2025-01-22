@@ -13,6 +13,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week01/SLIDES.html
 * [SQL practice on Codecademy](https://www.codecademy.com/learn/learn-sql)
   * Complete **"Manipulation"** and **"Queries"** in the (free) _Learn SQL_ course on Codecademy
 * [Join the course Slack](https://join.slack.com/t/musa-tools-track/signup)
+* Watch the [video for week 2](https://share.descript.com/view/hp1pjCMbpyq)
 
 ## SQL Practice
 
