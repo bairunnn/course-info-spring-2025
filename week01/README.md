@@ -1,6 +1,6 @@
 ## Slides
 
-https://musa-5090-spring-2024.github.io/presentation_slides/week01/SLIDES.html
+https://weitzman-musa-geocloud.github.io/presentation_slides/week01/SLIDES.html
 
 ## In-class Exercise
 
@@ -43,7 +43,7 @@ The following excellent books are available on [O'Reilly for Higher Education](h
   
   > There are plenty of books out there that treat you like a dummy, idiot, or some other flavor of simpleton, but these books tend to just skim the surface. At the other end of the spectrum are reference guides that detail every permutation of every statement in a language, which can be useful if you already have a good idea of what you want to do but just need the syntax. This book strives to find the middle ground, starting with some background of the SQL language, moving through the basics, and then progressing into some of the more advanced features that will allow you to really shine.
 
-* **_SQL Cookbook, 2nd Edition_, by Anthony Molinaro**
+* **_SQL Cookbook, 2nd Edition_, by Anthony Molinaro and Robert de Graaf**
 
   > This book is meant to be for any SQL user who wants to take their queries further. In terms of ability, it’s meant for someone who knows at least some SQL—you might have read Alan Beaulieu’s _Learning SQL_, for example—and ideally you’ve had to write queries on data in the wild to answer a real-life problem.
   >
