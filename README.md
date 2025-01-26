@@ -7,8 +7,10 @@
 * **Room:** ...
 * **Office Hours:**
   * Mjumbe:
-    * Van Pelt RDDSx: Mondays, Tuesdays, Wednesdays, 10:30-12:30
-    * By appointment (reservation link coming soon)
+    * Coworking in person ([check schedule here](https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&mode=WEEK&src=ZDRjNTI3NDhhNWIzMTFhZGM2NTdhZjVmZjEyYTIxNmY1MjkxNWFkMmFiMjYxYzM5YWNlZjlkMTRiMWI5MWIzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300))  
+      _Usually in Van Pelt RDDSx Mondays, Tuesdays, Wednesdays, 10:45-12:45, but there are exceptions; check the calendar_
+      
+    * Virtually, by appointment ([book here](https://calendar.app.google/ZTSCtEUBdMtkPzJw6))
   * Junyi:
     * TBD
 
