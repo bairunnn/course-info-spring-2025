@@ -14,4 +14,4 @@
     ORDER BY ST_Y(geometry);
     ```
 
-    Map those results to verify the outcomem (you should have around 105 records, possibly starting with "23rd & Chestnut", "12th & Filbert", "9th & Arch", "19th & Market", and "Race Street Pier").
+    Map those results to verify the outcome (you should have around 105 records, possibly starting with "23rd & Chestnut", "12th & Filbert", "9th & Arch", "19th & Market", and "Race Street Pier").
