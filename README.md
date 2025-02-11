@@ -13,6 +13,8 @@
     * Virtually, by appointment ([book here](https://calendar.app.google/ZTSCtEUBdMtkPzJw6))
   * Junyi:
     * Monday 9-11 AM ([Make appointments here](https://calendly.com/yjymonica2012/junyi-musa-cloud-computing-office-hour)) on Zoom or in person
+    * The above schedule may be moved to another day if there is a schedule conflict. (Check the link above for the most up-to-date schedule)
+    * By appointment
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
 
