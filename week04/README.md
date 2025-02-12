@@ -1,15 +1,16 @@
 ## Slides
 
-https://musa-5090-spring-2024.github.io/presentation_slides/week04/SLIDES.html
+https://Weitzman-MUSA-GeoCloud.github.io/presentation_slides/week04/SLIDES.html
 
 ## In-class Exercise
 
-* [Finish up Assignment 01](ehttps://github.com/musa-5090-spring-2024/assignment01)
-* [Start on Assignment 02](https://github.com/musa-5090-spring-2024/assignment02)
+* [PR Review #1](https://github.com/Weitzman-MUSA-GeoCloud/assignment02/pull/1)
+* [PR Review #2](https://github.com/Weitzman-MUSA-GeoCloud/assignment02/pull/2)
 
 ## Assignments
 
-* [Assignment 02](https://github.com/musa-5090-spring-2024/assignment02)
+* [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02/)
+* Watch [week 5 video](https://share.descript.com/view/idEqeuDQrUB)
 
 ## Readings
 
