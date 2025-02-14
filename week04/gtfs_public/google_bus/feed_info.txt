@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+SEPTA,https://www5.septa.org/,en,20240908,20250216,CITY Fall 2024_20241125
