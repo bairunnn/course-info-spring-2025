@@ -1,6 +1,6 @@
 ## Slides
 
-https://musa-5090-spring-2024.github.io/presentation_slides/week05/SLIDES.html
+https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
 
 ## In-class Exercise
 
@@ -22,7 +22,7 @@ https://musa-5090-spring-2024.github.io/presentation_slides/week05/SLIDES.html
 
 ## Assignments
 
-* [Assignment 02](https://github.com/musa-5090-spring-2024/assignment02)
+* [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
 
 ### Tips for the assignment...
 
