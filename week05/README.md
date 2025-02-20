@@ -1,6 +1,8 @@
 ## Slides
 
-https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
+- https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
+- Revisiting the data product architecture:
+  ![Data-centric Cloud-based Product Architecture](images/data-product-architecture.png)
 
 ## In-class Exercise
 
@@ -9,8 +11,8 @@ https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
 ### Tips for the exercise...
 
 - Be careful about the regions you choose on your GCP objects. Try to use a consistent region.
-- It may be useful to know that, by default, BugQuery does not respect quoted new lines in CSV files. There is an option that you can use for `CREATE TABLE` to allow quoted new lines though: https://cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language#create_external_table_statement
-- It may also be useful to know that a GeoJSON string's validity depends on more than we talked about in class today -- there are a host of requirements that a "valid" geojson string must conform to. However, since there's so much non-conforming GeoJSON that exists, BigQuery's [`ST_GeogFromGeoJSON` function](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions#st_geogfromgeojson) has an optional parameter called `make_valid` that you can specify. It looks something like:
+- It may be useful to know that, by default, BigQuery does not respect quoted new lines in CSV files. There is an option that you can use for `CREATE TABLE` to allow quoted new lines though: https://cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language#create_external_table_statement
+- It may also be useful to know that a GeoJSON string's "validity" depends on a host of requirements that it must conform to. However, since there's so much non-conforming GeoJSON that exists, BigQuery's [`ST_GeogFromGeoJSON` function](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions#st_geogfromgeojson) has an optional parameter called `make_valid` that you can specify. It looks something like:
   ```sql
   SELECT ST_GeogFromGeoJSON(geog, make_valid => TRUE)
   FROM ...
@@ -23,10 +25,16 @@ https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
 ## Assignments
 
 * [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
+* Read the following chapters (access book through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1)):
+  * **Data Pipelines Pocket Reference**  
+    *Chapter 1: Introduction to Data Pipelines*
+  * **Data Pipelines Pocket Reference**  
+    *Chapter 2: A Modern Data Infrastructure*
+* Watch the [week 06 video](https://share.descript.com/view/Tg3BUyKVgSq)
 
 ### Tips for the assignment...
 
-- Use SQLFluff to check your SQL syntax. You can use the `--fix` flag to automatically fix some of the issues that SQLFluff finds. For example:
+- Use SQLFluff to check your SQL syntax. You can use the `fix` subcommand to automatically fix some of the issues that SQLFluff finds. For example:
   ```bash
   sqlfluff fix my_file.sql
   ```

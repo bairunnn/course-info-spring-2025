@@ -17,7 +17,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
 * Readings  
   (access book through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1))
 
-  * By Feb 21
+  * By Feb 26
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 1: Introduction to Data Pipelines*
@@ -25,7 +25,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
     * **Data Pipelines Pocket Reference**  
       *Chapter 2: A Modern Data Infrastructure*
 
-  * By Feb 29
+  * By Mar 5
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 3: Common Data Pipeline Patterns*
