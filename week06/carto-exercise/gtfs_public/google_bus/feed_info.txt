@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+SEPTA,https://www5.septa.org/,en,20250224,20250614,CITY Spring 2025_20250224

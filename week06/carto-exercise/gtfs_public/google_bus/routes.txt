@@ -1,0 +1,170 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,1,Parx Casino to 54th-City,,3,,FFFFFF,000000
+103,1,103,Ardmore to 69th St Transit Center,,3,,FFFFFF,000000
+104,1,104,West Chester U to 69th St TC,,3,,FFFFFF,000000
+105,1,105,Rosemont to 69th St Transit Center,,3,,FFFFFF,000000
+106,1,106,Paoli to 69th St Transit Center,,3,,FFFFFF,000000
+107,1,107,Lawrence Park to 69th St TC,,3,,FFFFFF,000000
+108,1,108,UPS/Airport to 69th St Transit Ctr,,3,,000000,FFFFFF
+109,1,109,Chester Transit Ctr to 69th St TC,,3,,FFFFFF,000000
+110,1,110,Penn State U to 69th St Transit Ctr,,3,,FFFFFF,000000
+111,1,111,Chadds Ford to 69th St Transit Ctr,,3,,FFFFFF,000000
+112,1,112,DCCC to 69th St Transit Center,,3,,FFFFFF,000000
+113,1,113,Claymont Sta to 69th St Transit Ctr,,3,,000000,FFFFFF
+114,1,114,Wawa Station to Darby Transit Ctr,,3,,FFFFFF,000000
+115,1,115,DCCC/Darby Transit Ctr to Airport,,3,,FFFFFF,000000
+117,1,117,Penn State U to I-95 Industrial Pk,,3,,FFFFFF,000000
+118,1,118,Newtown Square to Chester TC,,3,,FFFFFF,000000
+119,1,119,Cheyney U to Chester Transit Center,,3,,FFFFFF,000000
+12,1,12,Columbus-Dock to 50th-Woodland,,3,,FFFFFF,000000
+120,1,120,Cheyney U to 69th St Transit Center,,3,,FFFFFF,000000
+123,1,123,King of Prussia to 69th St TC,,3,,FFFFFF,000000
+124,1,124,Chesterbrook to 13th-Market,,3,,FFFFFF,000000
+125,1,125,Valley Forge to 13th-Market,,3,,FFFFFF,000000
+126,1,126,Lawrence Park via Manoa to 69th TC,,3,,FFFFFF,000000
+127,1,127,Trenton Transit Ctr to OxfordValley,,3,,FFFFFF,000000
+128,1,128,Neshaminy to Oxford Valley Mall,,3,,FFFFFF,000000
+129,1,129,Frankford-Knights to Oxford Valley,,3,,FFFFFF,000000
+130,1,130,BCCC to Frankford-Knights,,3,,FFFFFF,000000
+131,1,131,Audubon to Norristown Transit Ctr,,3,,FFFFFF,000000
+132,1,132,Telford to Montgomery Mall,,3,,FFFFFF,000000
+133,1,133,Frankford-Knights to Bensalem,,3,,FFFFFF,000000
+135,1,135,West Chester TC to Coatesville,,3,,FFFFFF,000000
+139,1,139,Limerick to King of Prussia,,3,,FFFFFF,000000
+14,1,14,FTC to Neshaminy/Oxford Valley,,3,,FFFFFF,000000
+150,1,150,Parx Casino to Plymouth Meeting,,3,,FFFFFF,000000
+16,1,16,City Hall to Cheltenham-Ogontz,,3,,FFFFFF,000000
+17,1,17,Front-Mkt to 20-Johnston/Broad-Pat,,3,,000000,FFFFFF
+18,1,18,Fox Chase to Cedarbrook Plaza,,3,,000000,FFFFFF
+19,1,19,Torresdale Station to Frankford TC,,3,,FFFFFF,000000
+2,1,2,20-Johnston to Pulaski-Hunting Park,,3,,FFFFFF,000000
+20,1,20,Philadelphia Mills to Frankford TC,,3,,FFFFFF,000000
+201,1,201,Ft Wash Office Ctr to Fort Wash Sta,,3,,FFFFFF,000000
+204,1,204,Eagleview to Paoli Train Station,,3,,FFFFFF,000000
+206,1,206,Commons at Great Vly to Paoli Sta,,3,,FFFFFF,000000
+21,1,21,Columbus-Dock to 69th St TC,,3,,000000,FFFFFF
+22,1,22,Warminster/Willow Grove to Olney TC,,3,,FFFFFF,000000
+23,1,23,11th Market to Chestnut Hill,,3,,000000,FFFFFF
+24,1,24,Southamptn/Rockldge to Frankford TC,,3,,FFFFFF,000000
+25,1,25,Frankford TC to Columbus Commons,,3,,FFFFFF,000000
+26,1,26,Frankford TC to Chelten Av Station,,3,,FFFFFF,000000
+27,1,27,Broad-Carpenter to Plymouth Meeting,,3,,FFFFFF,000000
+28,1,28,Fern Rock TC to Torresdale-Cottman,,3,,FFFFFF,000000
+29,1,29,Pier 70 to 33rd-Dickinson,,3,,FFFFFF,000000
+3,1,3,33rd-Cecil B. Moore to Frankford TC,,3,,000000,FFFFFF
+30,1,30,Gray 30th St Station to 69th St TC,,3,,FFFFFF,000000
+31,1,31,City Hall to 76th-City,,3,,FFFFFF,000000
+310,1,310,Horsham Breeze Red,,3,,FFFFFF,000000
+311,1,311,Horsham Breeze Blue,,3,,FFFFFF,000000
+312,1,312,Cornwells Heights,,3,,FFFFFF,000000
+32,1,32,Broad-Carpenter to Ridge-Lyceum,,3,,FFFFFF,000000
+33,1,33,5th-Market to 23rd-Venango,,3,,000000,FFFFFF
+35,1,35,Manayunk Roxborough Loop,,3,,FFFFFF,000000
+37,1,37,Chester Transit Ctr to Broad-Snyder,,3,,FFFFFF,000000
+38,1,38,5th-Market to Wissahickon TC,,3,,FFFFFF,000000
+39,1,39,Richmond-Cumberland to 33rd-Dauphin,,3,,FFFFFF,000000
+4,1,4,Broad-Pattison to Fern Rock TC,,3,,FFFFFF,000000
+40,1,40,2nd-Lombard to Conshohocken-Monumnt,,3,,FFFFFF,000000
+406,1,406,West Phila to 67th-Elmwood,,3,,FFFFFF,000000
+409,1,409,59th-Balitmore to 84th-Crane,,3,,FFFFFF,000000
+41,1,41,J - Cheltn-Wsshkn to Richmnd-Orthdx,,3,,FFFFFF,000000
+411,1,411,74th-Elmwood to 46th-Ludlow,,3,,FFFFFF,000000
+415,1,415,46th-Ludlow to Passyunk-Elmwood,,3,,FFFFFF,000000
+42,1,42,2nd-Spruce to 61st-Pine/Wycombe,,3,,FFFFFF,000000
+426,1,426,Torresdale-Bridge to 10th-Lycoming,,3,,FFFFFF,000000
+428,1,428,Richmond-Venango to 10th-Lycomng,,3,,FFFFFF,000000
+43,1,43,Richmond-Cumberland to 50th-Parksde,,3,,FFFFFF,000000
+433,1,433,Castor-Cottman to 10th-Lycomng,,3,,FFFFFF,000000
+438,1,438,Germantown to Upper Roxborough,,3,,FFFFFF,000000
+439,1,439,Germantown to Roxborough,,3,,FFFFFF,000000
+44,1,44,Front-Market to Ardmore,,3,,FFFFFF,000000
+441,1,441,Andorra/Roxborough to Broad-Vine,,3,,FFFFFF,000000
+442,1,442,Henry-Roberts to Barren Hill,,3,,FFFFFF,000000
+445,1,445,Roxborough to Frankford Transit Ctr,,3,,FFFFFF,000000
+446,1,446,Henry-Cinnaminsn to Junipr-Commerce,,3,,FFFFFF,000000
+447,1,447,Frankford TC to Henry-Cinnaminson,,3,,FFFFFF,000000
+448,1,448,Broad-Vine to Upper Roxborough,,3,,FFFFFF,000000
+45,1,45,Broad-Oregon to 12th-Vine,,3,,000000,FFFFFF
+450,1,450,Frankford-Linden to Bustletn-Verree,,3,,FFFFFF,000000
+452,1,452,Academy-Medford to Bustleton-Verree,,3,,FFFFFF,000000
+46,1,46,58th-Baltimore to 63rd-Malvern,,3,,000000,FFFFFF
+461,1,461,Bustleton-Verree to Academy-Chalfnt,,3,,FFFFFF,000000
+462,1,462,Welsh-Bridal to Academy-Chalfont,,3,,FFFFFF,000000
+47,1,47,Whitman Plaza to 5th-Godfrey,,3,,000000,FFFFFF
+475,1,475,Bustltn-County Ln to Verree-Marchmn,,3,,FFFFFF,000000
+476,1,476,Southamptn-Blvd to Verree-Marchman,,3,,FFFFFF,000000
+477,1,477,Academy-Comly to Verree-Marchman,,3,,FFFFFF,000000
+478,1,478,Welsh-Blvd to Verree-Marchman,,3,,FFFFFF,000000
+47M,1,47M,Whitmn Plz to 7th-Spg Grd via 9thSt,,3,,FFFFFF,000000
+48,1,48,Front-Market to 27th-Allegheny,,3,,000000,FFFFFF
+484,1,484,Holy Redmr Hosptl to Cottmn-Torrsdl,,3,,FFFFFF,000000
+49,1,49,33rd-Dauphin to 29th-Snyder,,3,,FFFFFF,000000
+490,1,490,Fox Chase Loop to Verree-Marchman,,3,,FFFFFF,000000
+492,1,492,Bustletn-Rennard to Verree-Marchman,,3,,FFFFFF,000000
+495,1,495,Southmptn-Worthngtn to 10th-Lycomng,,3,,FFFFFF,000000
+5,1,5,2nd-Market to Frankford Transit Ctr,,3,,FFFFFF,000000
+50,1,50,Parx to Frankford Transit Center,,3,,FFFFFF,000000
+51,1,51,L - PlymthMtg/ChestntHl to Olney TC,,3,,000000,FFFFFF
+52,1,52,49th-Woodlnd to 54th-City/Parksd Lp,,3,,000000,FFFFFF
+53,1,53,Wayne-Carpenter to Broad-Hunting Pk,,3,,FFFFFF,000000
+54,1,54,Richmond-Cambria to 33rd-Dauphin,,3,,FFFFFF,000000
+55,1,55,Doylestown/Willow Grove to Olney TC,,3,,FFFFFF,000000
+56,1,56,23rd-Venango to Torresdale-Cottman,,3,,000000,FFFFFF
+57,1,57,WhitmnPlz to RisngSun-Olney/FernRck,,3,,FFFFFF,000000
+58,1,58,Neshaminy/Somerton to Frankford TC,,3,,000000,FFFFFF
+59,1,59,Castor-Bustleton to Arrott TC,,11,,FFFFFF,000000
+6,1,6,Cheltenham-Ogontz to Olney TC,,3,,000000,FFFFFF
+60,1,60,35th-Allegheny to Rich-Westmoreland,,3,,000000,FFFFFF
+61,1,61,9th-Market to Manayunk,,3,,FFFFFF,000000
+62,1,62,9th-Market to Andorra,,3,,FFFFFF,000000
+63,1,63,G - Lanknau/Overbrk to ColCom/FdCtr,,3,,000000,FFFFFF
+64,1,64,50th-Parkside to Pier 70,,3,,FFFFFF,000000
+65,1,65,Germantown-Chelten to 69th St TC,,3,,FFFFFF,000000
+66,1,66,Frankford TC to Frankford-Knights,,11,,000000,FFFFFF
+67,1,67,Phila Mills/Bustletn to Frankfrd TC,,3,,FFFFFF,000000
+68,1,68,Broad-Oregon to UPS/69th St TC,,3,,FFFFFF,000000
+7,1,7,Pier 70 to 33rd-Dauphin,,3,,FFFFFF,000000
+70,1,70,Frank-Grg/Torsdl-Cottmn to FernRock,,3,,000000,FFFFFF
+71,1,71,H - Broad-Erie to Cheltenham-Ogontz,,3,,FFFFFF,000000
+73,1,73,Frankford TC to Richmnd-Westmorelnd,,3,,FFFFFF,000000
+75,1,75,Wayne Junct to Arrott Transit Ctr,,11,,FFFFFF,000000
+77,1,77,Roosevelt-Cottman to Chestnut Hill,,3,,FFFFFF,000000
+78,1,78,Express Cornwells Hghts to Ctr City,,3,,FFFFFF,000000
+79,1,79,Columbus Commons to 29th-Snyder,,3,,000000,FFFFFF
+8,1,8,Olney TC to Frankford TC,,3,,FFFFFF,000000
+80,1,80,Express Horsham to Olney TC,,3,,FFFFFF,000000
+81,1,81,XH - Broad-Erie to Cheltenham-Ogntz,,3,,FFFFFF,000000
+82,1,82,R - Wissahckn TC/Henry-Midvl to FTC,,3,,000000,FFFFFF
+84,1,84,Bustletn-CountyLn/PhilaMills to FTC,,3,,FFFFFF,000000
+88,1,88,Bethayres/Frankford-Gregg to FTC,,3,,FFFFFF,000000
+89,1,89,Front-Dauphin to Arrott Transit Ctr,,3,,FFFFFF,000000
+9,1,9,4th-Walnut to Andorra,,3,,FFFFFF,000000
+90,1,90,Plymouth Mtng. to Norristown TC,,3,,FFFFFF,000000
+92,1,92,West Chester to King of Prussia,,3,,FFFFFF,000000
+93,1,93,Pottstown to Norristown Transit Ctr,,3,,FFFFFF,000000
+94,1,94,Montgomery Mall to Chestnut Hill,,3,,FFFFFF,000000
+95,1,95,Gulph Mills to Willow Grove Mall,,3,,FFFFFF,000000
+96,1,96,Lansdale to Norristown Transit Ctr,,3,,FFFFFF,000000
+97,1,97,Chestnut Hill to Norristown TC,,3,,FFFFFF,000000
+98,1,98,Plymouth Mtng to Norristown TC,,3,,FFFFFF,000000
+99,1,99,Phoenixville to Norristown TC,,3,,FFFFFF,000000
+B1,1,B1,Broad Street Line Local,,1,,F26100,FFFFFF
+B1 OWL,1,B1 OWL,Midnight-5am Service (Bus) for B1,,3,,FFFFFF,000000
+B2,1,B2,Broad Street Line Express,,1,,F26100,FFFFFF
+B3,1,B3,Broad-Ridge Spur,,1,,F26100,FFFFFF
+BLVDDIR,1,BLVDDIR,Blvd Direct Neshaminy Mall to FTC,,3,,FFFFFF,000000
+D1,1,D1,Route 101,,0,,DC2E6B,FFFFFF
+D2,1,D2,Route 102,,0,,DC2E6B,FFFFFF
+G1,1,G1,Route 15,,0,,FFD700,000000
+K,1,K,Ridge-Midvale to Arrott Transit Ctr,,3,,FFFFFF,000000
+L1,1,L1,Market-Frankford Line All Stops,,1,,0097D6,FFFFFF
+L1 OWL,1,L1 OWL,Midnight-5am Service (Bus) for L1,,3,,FFFFFF,000000
+LUCYGO,1,LUCYGO,Gold Loop through University City,,3,,FFFFFF,000000
+LUCYGR,1,LUCYGR,Green Loop through University City,,3,,FFFFFF,000000
+M1,1,M1,Norristown High Speed Line Local,,1,,5F249F,FFFFFF
+T1,1,T1,Route 10,,0,,5A960A,FFFFFF
+T2,1,T2,Route 34,,0,,5A960A,FFFFFF
+T3,1,T3,Route 13,,0,,5A960A,FFFFFF
+T4,1,T4,Route 11,,0,,5A960A,FFFFFF
+T5,1,T5,Route 36,,0,,5A960A,FFFFFF
+T5 Bus,1,T5 Bus,Route 36 Bus,,0,,5A960A,FFFFFF
