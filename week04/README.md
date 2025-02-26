@@ -17,7 +17,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
 * Readings  
   (access book through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1))
 
-  * By Feb 21
+  * By Feb 26
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 1: Introduction to Data Pipelines*
@@ -25,7 +25,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
     * **Data Pipelines Pocket Reference**  
       *Chapter 2: A Modern Data Infrastructure*
 
-  * By Feb 29
+  * By Mar 5
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 3: Common Data Pipeline Patterns*
@@ -35,3 +35,10 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
 
       About the other _optional_ sections:  
       The first section (*Data Structures That Power Your Database*) goes in to a lot more detail about the types of indexing we were discussing this week, and the last section (*Column-Oriented Storage*) covers things we'll see in the next few weeks, but in more detail than we'll go into in class. They are optional, but feel free to read them if you enjoy technical details.
+
+## Supplemental Readings
+
+### Spatial Indexing
+
+* _Background: Two Common Approaches to Spatial Indexing_, https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/#Background:-Two-Common-Approaches-for-Spatial-Indexes
+* _Geospatial Indexing Explained: A Comparison of Geohash, S2, and H3_, https://benfeifke.com/posts/geospatial-indexing-explained/
