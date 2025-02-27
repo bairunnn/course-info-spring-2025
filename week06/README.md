@@ -39,6 +39,7 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
       About the other _optional_ sections:  
       The first section (*Data Structures That Power Your Database*) goes in to a lot more detail about the types of indexing we were discussing this week, and the last section (*Column-Oriented Storage*) covers things we'll see in the next few weeks, but in more detail than we'll go into in class. They are optional, but feel free to read them if you enjoy technical details.
 - Watch the [week 7 video](https://share.descript.com/view/9drEh9q22ID)
+- Fill out the [In-class Project Team Roles](https://docs.google.com/forms/d/1jsEFjWQ8LaFny1edTXDGi_9jpj1yIMJ8FagtjLxg1qM/edit) form
 
 ## Resources
 
