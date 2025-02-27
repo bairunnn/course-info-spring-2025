@@ -51,3 +51,8 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
 - Cal-ITP Code:
   - gtfs-rt-archiver is the tool that fetches GTFS-RT data from agencies around CA every 20 seconds: https://github.com/cal-itp/data-infra/tree/main/services/gtfs-rt-archiver-v3
   - gtfs-rt-parser is the script that gets run every hour from Airflow, validates the RT feed data, and converts it to JSON-L: https://github.com/cal-itp/data-infra/tree/main/jobs/gtfs-rt-parser-v2 (e.g. [this is the definition of the task](https://github.com/cal-itp/data-infra/blob/main/airflow/dags/parse_and_validate_rt_v2/parse_rt_vehicle_positions.yml) that runs that script from within Airflow)
+- Modern Data Stack:
+  
+  A colleague of mine shared this post from the NYC MTA about their analytics infrastructure strategy: _How we build analytics at scale at the MTA_, https://www.mta.info/article/how-we-build-analytics-scale-mta
+  
+  It provides a good example of a modern data stack, and shows how they think about the stack as a product with users whose needs can be identified and should drive the design of the system.
