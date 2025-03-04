@@ -7,7 +7,7 @@
     "betterknown": "latest",
     "big-json": "latest",
     "csv": "latest",
-    "dotenv": "latest",
+    "dotenv": "^16.4.7",
     "duckdb": "latest",
     "duckdb-async": "latest",
     "gdal-async": "latest",
