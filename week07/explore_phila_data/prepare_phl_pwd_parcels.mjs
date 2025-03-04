@@ -1,3 +1,4 @@
+// This is for Week 7!
 import BigJSON from 'big-json'; // For handling large JSON files 
 import fs from 'fs/promises';
 import path from 'path';

@@ -1,8 +1,8 @@
 import * as csv from 'csv/sync';
 import * as codes from '@esri/proj-codes';
 import fs from 'fs/promises';
-import { wktToGeoJSON } from 'betterknown';
-import proj4 from 'proj4';
+import { wktToGeoJSON } from 'betterknown'; // For parsing WKT geometries
+import proj4 from 'proj4'; // For coordinate transformations
 import path from 'path';
 import { fileURLToPath } from 'url';
 

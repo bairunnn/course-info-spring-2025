@@ -1,4 +1,4 @@
-import gdal from 'gdal-async';
+import gdal from 'gdal-async'; // To process the geopackage file
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';

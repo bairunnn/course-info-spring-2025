@@ -2,7 +2,7 @@ import io
 import re
 import requests
 import pathlib
-import zipfile
+import zipfile # built-in module
 
 DATA_DIR = pathlib.Path(__file__).parent / 'raw_data'
 
