@@ -1,7 +1,7 @@
 ## Slides
 
 - https://Weitzman-MUSA-GeoCloud/presentation_slides/week07/SLIDES.html
-- In-class project: https://docs.google.com/presentation/d/1Y3Mqb9T6Zb_ep8RxLhMLDmecnNQCzqomy83_tMuoa2E/edit?usp=sharing
+- In-class project: https://docs.google.com/presentation/d/1XRS2O_0IJNv2jknYMHfWHBhhqFn0e2gyK_vgbQMAUKg/edit?usp=sharing
 
 ## Resources
 

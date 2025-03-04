@@ -38,6 +38,21 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
 
       About the other _optional_ sections:  
       The first section (*Data Structures That Power Your Database*) goes in to a lot more detail about the types of indexing we were discussing this week, and the last section (*Column-Oriented Storage*) covers things we'll see in the next few weeks, but in more detail than we'll go into in class. They are optional, but feel free to read them if you enjoy technical details.
+- Watch the [week 7 video](https://share.descript.com/view/9drEh9q22ID)
+- Fill out the [In-class Project Team Roles](https://docs.google.com/forms/d/1jsEFjWQ8LaFny1edTXDGi_9jpj1yIMJ8FagtjLxg1qM/edit) form
+
 ## Resources
 
 - [_ES Modules: All You Need To Know_](https://konstantin.digital/blog/es-modules-all-you-need-to-know)
+- [OpenStreetMap BigQuery Dataset Reference](https://wiki.openstreetmap.org/wiki/BigQuery_dataset) (also, this [Ultimate Guide to OpenStreetMap & BigQuery](https://carto.com/blog/osm-bigquery) from Carto)
+
+## From the lecture...
+
+- Cal-ITP Code:
+  - gtfs-rt-archiver is the tool that fetches GTFS-RT data from agencies around CA every 20 seconds: https://github.com/cal-itp/data-infra/tree/main/services/gtfs-rt-archiver-v3
+  - gtfs-rt-parser is the script that gets run every hour from Airflow, validates the RT feed data, and converts it to JSON-L: https://github.com/cal-itp/data-infra/tree/main/jobs/gtfs-rt-parser-v2 (e.g. [this is the definition of the task](https://github.com/cal-itp/data-infra/blob/main/airflow/dags/parse_and_validate_rt_v2/parse_rt_vehicle_positions.yml) that runs that script from within Airflow)
+- Modern Data Stack:
+  
+  A colleague of mine shared this post from the NYC MTA about their analytics infrastructure strategy: _How we build analytics at scale at the MTA_, https://www.mta.info/article/how-we-build-analytics-scale-mta
+  
+  It provides a good example of a modern data stack, and shows how they think about the stack as a product with users whose needs can be identified and should drive the design of the system.
