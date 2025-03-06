@@ -12,7 +12,7 @@
 
 - [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
 - Watch the [week 8 video](https://share.descript.com/view/Uw9egXI9m9T)
-
+  - Please note while watching this one that Google rebreanded Cloud Functions some time last summer (https://cloud.google.com/functions/docs/release-notes#August_21_2024). The new name is Cloud Run Functions, but it's the same product. Some parts of the interface may look different than in the video (particularly in the part around testing), but the functionality is the same.
 ## Resources
 
 ### URL Formatting (for APIs and other web requests)
