@@ -16,6 +16,8 @@ main:
     - loadPhlPropertyData:
         call: http.get
         args:
-            url: 'https://us-central1-musa-344004.cloudfunctions.net/run_sql?sql=data_lake/phl_opa_properties.sql'
+            url: 'https://us-central1-musa-344004.cloudfunctions.net/run_sql'
+            query:
+                sql: 'data_lake/phl_opa_properties.sql'
             auth:
                 type: OIDC
