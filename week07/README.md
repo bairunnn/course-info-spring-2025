@@ -3,6 +3,19 @@
 - https://Weitzman-MUSA-GeoCloud/presentation_slides/week07/SLIDES.html
 - In-class project: https://docs.google.com/presentation/d/1XRS2O_0IJNv2jknYMHfWHBhhqFn0e2gyK_vgbQMAUKg/edit?usp=sharing
 
+## In-class Activities
+
+- Analyzing satellite images in Google Earth Engine with BigQuery SQL, https://cloud.google.com/blog/products/data-analytics/analyzing-satellite-images-in-google-earth-engine-with-bigquery-sql
+- Quickstart for dbt Core from a manual install, https://docs.getdbt.com/guides/manual-install?step=4
+
+## Assignments
+
+- [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
+- Watch the [week 8 video](https://share.descript.com/view/Uw9egXI9m9T)
+  - Please note while watching this one that Google rebreanded Cloud Functions some time last summer (https://cloud.google.com/functions/docs/release-notes#August_21_2024). The new name is Cloud Run Functions, but it's the same product. Some parts of the interface may look different than in the video (particularly in the part around testing), but the functionality is the same.
+- I highly recommend that you watch the [week 9 video](https://share.descript.com/view/qs9EayrXLS9) as well, as it is short, and will help you understand the material for the in-class project.
+
+
 ## Resources
 
 ### URL Formatting (for APIs and other web requests)
