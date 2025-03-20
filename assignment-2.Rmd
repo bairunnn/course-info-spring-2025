@@ -1,0 +1,77 @@
+---
+title: "assignment-2"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Clean census population data
+
+Goal:
+
+```{sql}
+CREATE TABLE census.population_2020 (
+    geoid TEXT,
+    geoname TEXT,
+    total INTEGER
+);
+```
+
+### Import
+
+```{r}
+library(readr)
+raw_census <- read_csv("./rawdata-census-pop.csv")
+```
+
+### Trim
+
+```{r}
+
+column_names <- names(raw_census)
+column_names_df <- data.frame(column_name = column_names)
+
+```
+
+```{r}
+
+library(dplyr)
+raw_census <- raw_census %>%
+  rename(
+    geoid = GEO_ID,
+    geoname = NAME,
+    total = P1_001N
+  ) %>%
+  select(geoid, geoname, total)
+```
+
+### Remove first row (description)
+
+```{r}
+raw_census <- raw_census %>%
+  slice(-1)
+```
+
+## Re-format the geoid column
+
+```{r}
+# str(raw_census)
+# 
+# raw_census$geoid <- substr(raw_census$geoid_long, nchar(raw_census$geoid_long) - 11, nchar(raw_census$geoid_long))
+# 
+# head(raw_census)
+```
+
+## Export
+
+```{r}
+# export <- raw_census %>% 
+#   select(geoid, geoname, total)
+```
+
+```{r}
+write.csv(raw_census, "processed-census-pop.csv", row.names = FALSE)
+```
