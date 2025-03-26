@@ -74,8 +74,7 @@ gcloud scheduler jobs create http phl-property-data-pipeline \
 --schedule='0 0 * * 1' \
 --time-zone='America/New_York' \
 --uri='https://workflowexecutions.googleapis.com/v1/projects/musa-344004/locations/us-central1/workflows/phl-property-data-pipeline/executions' \
---oauth-service-account-email='data-pipeline-robot-2024@musa-344004.iam.gserviceaccount.com' \
---oidc-service-account-email='data-pipeline-robot-2024@musa-344004.iam.gserviceaccount.com'
+--oauth-service-account-email='data-pipeline-robot-2024@musa-344004.iam.gserviceaccount.com' # Use OAuth for googleapis.com URLs
 ```
 
 ```shell
